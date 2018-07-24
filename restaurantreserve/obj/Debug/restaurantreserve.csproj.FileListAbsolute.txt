@@ -1,0 +1,10 @@
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\bin\Debug\restaurantreserve.exe.config
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\bin\Debug\restaurantreserve.exe
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\bin\Debug\restaurantreserve.pdb
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\obj\Debug\restaurantreserve.csprojAssemblyReference.cache
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\obj\Debug\restaurantreserve.Form1.resources
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\obj\Debug\restaurantreserve.Properties.Resources.resources
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\obj\Debug\restaurantreserve.csproj.GenerateResource.cache
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\obj\Debug\restaurantreserve.csproj.CoreCompileInputs.cache
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\obj\Debug\restaurantreserve.exe
+C:\Users\not a hacker\source\repos\restaurantreserve\restaurantreserve\obj\Debug\restaurantreserve.pdb
